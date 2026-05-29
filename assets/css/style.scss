@@ -4,28 +4,49 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: #111111;
-  color: #dddddd;
+  background-color: #ffffff;
+  color: #222222;
   font-family: "Helvetica Neue", sans-serif;
-  line-height: 1.7;
+  line-height: 1.8;
+  font-size: 17px;
 }
 
 h1, h2, h3 {
-  color: #ffffff;
+  color: #111111;
+  font-weight: 600;
+  margin-top: 1.8em;
 }
 
 a {
-  color: #7aa2ff;
+  color: #2a5db0;
+  text-decoration: none;
 }
 
 a:hover {
-  color: #a8c1ff;
+  color: #163d7a;
+  text-decoration: underline;
 }
 
 .wrapper {
   max-width: 900px;
 }
 
+p {
+  margin-bottom: 1.2em;
+}
+
 code {
-  background-color: #222222;
+  background-color: #f4f4f4;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+img {
+  border-radius: 8px;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #dddddd;
+  margin: 2em 0;
 }
