@@ -4,9 +4,11 @@
 - Relativistic hydrodynamics
 - Exotic Stars
 
-## About
 
-I work on phenomenology of heavy-ion collisions and non-equilibrium QCD matter.
+## Website
+
+- [INSPIRE-HEP](https://inspirehep.net/authors/1790630?ui-citation-summary=true)
+- [Google Scholar](https://scholar.google.com/citations?user=9gkB79UAAAAJ&hl=en)
 
 ## Contact
 
