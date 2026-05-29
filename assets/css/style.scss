@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #111111;
+  color: #dddddd;
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  color: #ffffff;
+}
+
+a {
+  color: #7aa2ff;
+}
+
+a:hover {
+  color: #a8c1ff;
+}
+
+.wrapper {
+  max-width: 900px;
+}
+
+code {
+  background-color: #222222;
+}
