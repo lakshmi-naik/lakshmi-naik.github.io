@@ -6,7 +6,7 @@
 
 ## Publications
 
-{% bibliography %}
+{% bibliography --file INSPIRE-CiteAll %}
 
 ## Website
 
