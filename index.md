@@ -4,6 +4,9 @@
 - Relativistic hydrodynamics
 - Exotic Stars
 
+## Publications
+
+{% bibliography %}
 
 ## Website
 
