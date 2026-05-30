@@ -3,7 +3,7 @@
 - Quark-Gluon Plasma
 - Relativistic hydrodynamics
 - Exotic Stars
-  
+
 ## Publications
 
 {% bibliography %}
