@@ -24,6 +24,7 @@ jobs:
       run: |
         gem install jekyll
         gem install jekyll-scholar
+        gem install jekyll-theme-minimal
 
     - name: Build site
       run: jekyll build
