@@ -7,5 +7,4 @@ plugins:
 
 scholar:
   bibliography: INSPIRE-CiteAll.bib
-  bibliography_template: bib
   source: _bibliography
