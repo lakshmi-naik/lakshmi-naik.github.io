@@ -4,7 +4,7 @@ description: PhD student in theoretical high energy physics
 
 plugins:
   - jekyll-scholar
-
+  
 scholar:
   bibliography: INSPIRE-CiteAll.bib
   source: _bibliography
