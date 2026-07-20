@@ -9,6 +9,11 @@ title: Home
 - Relativistic hydrodynamics
 - Exotic Stars
 
+# Quick Links
+
+- [Publications](publications)
+- [Talks](talks)
+
 
 ## Website
 
