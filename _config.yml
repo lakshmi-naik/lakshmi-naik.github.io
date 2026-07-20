@@ -1,4 +1,7 @@
-theme: Academic Pages
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
 title: Lakshmi J. Naik
 
 logo: /assets/lakshmi.jpg
