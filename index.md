@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 ## Research Interests
 
 - Quark-Gluon Plasma
