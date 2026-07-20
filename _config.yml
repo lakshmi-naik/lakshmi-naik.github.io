@@ -1,11 +1,13 @@
 theme: jekyll-theme-minimal
 title: Lakshmi J. Naik
-description: PhD student in theoretical high energy physics
 
-#plugins:
-#  - jekyll-scholar
-  
-#scholar:
-#  bibliography: INSPIRE-CiteAll.bib
-  #bibliography_template: bib
-#  source: _bibliography
+logo: /assets/profile.jpg
+
+description: |
+  PhD Student<br>
+  Department of Physics<br><br>
+
+  <a href="https://inspirehep.net/authors/1790630?ui-citation-summary=true">INSPIRE-HEP</a><br>
+  <a href="https://scholar.google.com/citations?user=9gkB79UAAAAJ&hl=en">Google Scholar</a><br>
+
+  lakshmijnaik09@gmail.com
