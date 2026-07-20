@@ -6,7 +6,11 @@
 
 ## Publications
 
-**Lakshmi J. Naik** and V. Sreekanth, Finite-Density Dynamics of Chemically Equilibrating QGP in Conformal Gubser Flow and Hard Thermal Photon Production, J. Phys. G: Nucl. Part. Phys. (2026) 53 075106.
+1. **L. J. Naik**, V. Sreekanth, *Title of Paper*, **Phys. Rev. D** **108**, 123456 (2025).
+
+
+2. **L. J. Naik**, V. Sreekanth, *Title of Paper*, **J. Phys. G** (2026).
+
 
 ## Website
 
