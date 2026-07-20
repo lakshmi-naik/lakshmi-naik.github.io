@@ -8,7 +8,7 @@
 
 1. **L. J. Naik**, V. Sreekanth, *Title of Paper*, **Phys. Rev. D** **108**, 123456 (2025).
 
-
+ 
 2. **L. J. Naik**, V. Sreekanth, *Title of Paper*, **J. Phys. G** (2026).
 
 
